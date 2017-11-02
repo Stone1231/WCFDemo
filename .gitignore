@@ -1,0 +1,12 @@
+*.suo
+*.exe
+.vs/
+packages/
+Commons/bin
+Commons/obj
+Models/bin
+Models/obj
+RunLocal/bin
+RunLocal/obj
+WcfServiceLibrary1/bin
+WcfServiceLibrary1/obj

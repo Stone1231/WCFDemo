@@ -1,0 +1,6 @@
+D:\Project\Workflow_NOW\Common\bin\Debug\Newegg.OfficeWeb.Workflow.Common.dll
+D:\Project\Workflow_NOW\Common\bin\Debug\Newegg.OfficeWeb.Workflow.Common.pdb
+D:\Project\Workflow_NOW\Common\bin\Debug\Newegg.LogStorage.Client.dll
+D:\Project\Workflow_NOW\Common\obj\Debug\Newegg.OfficeWeb.Workflow.Common.csprojResolveAssemblyReference.cache
+D:\Project\Workflow_NOW\Common\obj\Debug\Newegg.OfficeWeb.Workflow.Common.dll
+D:\Project\Workflow_NOW\Common\obj\Debug\Newegg.OfficeWeb.Workflow.Common.pdb

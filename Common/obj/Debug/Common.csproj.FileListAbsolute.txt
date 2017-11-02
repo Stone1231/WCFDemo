@@ -1,0 +1,15 @@
+D:\Project\WCFDemo\Common\bin\Debug\Newegg.OfficeWeb.Workflow.Common.dll
+D:\Project\WCFDemo\Common\bin\Debug\Newegg.OfficeWeb.Workflow.Common.pdb
+D:\Project\WCFDemo\Common\obj\Debug\Newegg.OfficeWeb.Workflow.Common.dll
+D:\Project\WCFDemo\Common\obj\Debug\Newegg.OfficeWeb.Workflow.Common.pdb
+D:\Project\WCFDemo\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Project\Test\Common\bin\Debug\Newegg.OfficeWeb.Workflow.Common.dll
+D:\Project\Test\Common\bin\Debug\Newegg.OfficeWeb.Workflow.Common.pdb
+D:\Project\Test\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\Project\Test\Common\obj\Debug\Newegg.OfficeWeb.Workflow.Common.dll
+D:\Project\Test\Common\obj\Debug\Newegg.OfficeWeb.Workflow.Common.pdb
+D:\MY\WCFDemo\Common\bin\Debug\Newegg.OfficeWeb.Workflow.Common.dll
+D:\MY\WCFDemo\Common\bin\Debug\Newegg.OfficeWeb.Workflow.Common.pdb
+D:\MY\WCFDemo\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\MY\WCFDemo\Common\obj\Debug\Newegg.OfficeWeb.Workflow.Common.dll
+D:\MY\WCFDemo\Common\obj\Debug\Newegg.OfficeWeb.Workflow.Common.pdb
